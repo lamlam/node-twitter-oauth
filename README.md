@@ -21,5 +21,5 @@
         CONSUMER_SECRET=<YOUR TWITTER APP CONSUMER_SECRET> \
         node server.js
     ```
-1. Access `localhost:3000` with browser
+1. Access `localhost:3000/auth/twitter` with browser
 
